@@ -15,4 +15,4 @@ Practice and revise regularly.
 
 📩 Contact
 
-If you have any doubts or need support, feel free to reach out during class hours or via the official course whatsapp group.
+If you have any doubts or need support, feel free to reach out during class hours.
