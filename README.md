@@ -39,8 +39,7 @@ Solve a collection of classic and creative pattern problems here 👉 [Hack CB P
 ### 🔹 3. Functions & Recursion
 - Function declarations and definitions
 - Pass-by-value vs pass-by-reference
-- Recursion and backtracking basics
-- Tail recursion and recursion trees
+- Recursion
 
 ### 🔹 4. Arrays, Strings, and Vectors
 - Static and dynamic arrays
