@@ -44,6 +44,7 @@ Solve a collection of classic and creative pattern problems here 👉 [Hack CB P
 ### 🔹 4. Arrays, Strings, and Vectors
 - Static and dynamic arrays
 - String manipulation & standard functions
+- Sorting: Bubble, Selection, Merge, Quick
 - Introduction to STL `vector`
 - 2D arrays and matrix-based problems
 
@@ -55,12 +56,6 @@ Solve a collection of classic and creative pattern problems here 👉 [Hack CB P
 - Containers: `vector`, `map`, `set`, `queue`, `stack`
 - Iterators and algorithms
 - Custom comparator functions
-
-### 🔹 7. Data Structures & Algorithms
-- Sorting: Bubble, Selection, Merge, Quick
-- Searching: Binary Search
-- Dynamic Programming (Tabulation & Memoization)
----
 
 ## 📬 Support & Contact
 
