@@ -36,17 +36,17 @@ The course covers a wide range of topics, each backed with in-depth theory and r
 📌 **Pattern Programming Assignment:**  
 Solve a collection of classic and creative pattern problems here 👉 [Hack CB Pattern Contest](https://hack.codingblocks.com/app/contests/7843)
 
-### 🔹 3. Functions & Recursion
+### 🔹 3. Arrays, Strings, and Vectors
+- String manipulation & standard functions
+
+📌 **Array Assignment:**  
+Test your understanding of arrays with these problems 👉 [Hack CB Array Contest](https://hack.codingblocks.com/app/contests/7844)
+
+### 🔹 4. Functions & Recursion
 - Function declarations and definitions
 - Pass-by-value vs pass-by-reference
 - Recursion
 
-### 🔹 4. Arrays, Strings, and Vectors
-- Static and dynamic arrays
-- String manipulation & standard functions
-- Sorting: Bubble, Selection, Merge, Quick
-- Introduction to STL `vector`
-- 2D arrays and matrix-based problems
 
 ### 🔹 5. Pointers & Dynamic Memory Allocation
 - Pointer arithmetic and memory management
@@ -57,9 +57,11 @@ Solve a collection of classic and creative pattern problems here 👉 [Hack CB P
 - Iterators and algorithms
 - Custom comparator functions
 
+---
+
 ## 📬 Support & Contact
 
-If you have any doubts or need support, feel free to reach out:
+If you have any doubts or need support, feel free to reach out:  
 > “Learning to write programs stretches your mind, and helps you think better. It creates a way of thinking about things that I think is helpful in all domains.” – Bill Gates
 
 Happy Coding! 💻🚀
