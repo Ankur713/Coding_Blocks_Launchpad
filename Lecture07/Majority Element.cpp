@@ -1,22 +1,18 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <map>
 using namespace std;
 
 int main() {
-    
-    int N;
-    cin >> N;
-    int arr[1000], count[10001];
-
-    for(int i=0;i<10001;i++) count[i] = 0;
-
-    for (int i = 0; i < N; i++) {
-        cin >> arr[i];
-        count[arr[i]]++;
-        if (count[arr[i]] > N / 2) {
-            cout << arr[i] << endl;
+    int n, x;
+    cin >> n;
+    map<int, int> freq;
+    for (int i = 0; i < n; ++i) {
+        cin >> x;
+        freq[x]++;
+        if (freq[x] > n / 2) {
+            cout << x;
             break;
         }
     }
-
     return 0;
 }
